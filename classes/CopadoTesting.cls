@@ -3,6 +3,9 @@ Public Class CopadoTesting{
 
 public String testing ;
 
+//added by scratch org
+public String SFDX_var;
+
 public String showStatus(){
 return testing;
 }
